@@ -1,0 +1,11 @@
+- title: "HyperPS: A Virtual-Machine Memory Protection Approach through Hypervisor's Privilege Separation"
+  image: HyperKRP.png
+  description: The HostOS or Hypervisor constitutes the most important cornerstone of today's commercial cloud environment security. Unfortunately, the HostOS/Hypervisor, especially the QEMU-KVM architecture, is not immune to all vulnerabilities and exploitations. Recently, researchers have put forward lots of schemes to protect Virtual Machines under the compromised HostOS/Hypervisor. However, some of these schemes rely on special hardware facilities, while other (e.g., Nested Virtualization schemes) require large modification to current commercial cloud architecture. In this paper, we present a novel scheme, named HyperPS, to implement virtual machine protection under the compromised HostOS/Hypervisor. The key idea of HyperPS is to deprive the HostOS/Hypervisor of the privileges of managing the physical memory into an isolated and trusted execution environment. HyperPS does not rely customized hardware or extra processor privilege. HyperPS shares the same privilege with the HostOS. We have implemented a fully functional prototype based on the KVM in Intel x86_64 architecture. Experiment results show that HyperPS has achieved an acceptable trade-off between security and performance.
+  authors: Kunli Lin, Wenqin Liu, Kun Zhang, Bibo Tu
+  link:
+    url: https://ieeexplore.ieee.org/document/9863665
+    display: TDSC, 2022
+  highlight: 1
+
+
+
