@@ -1,0 +1,18 @@
+- name: 涂碧波
+  photo: tubibo.jpg
+  info: 博导，信息工程研究所研究员，国科大网络空间安全学院岗位教授
+  email: tubibo@iie.ac.cn
+  number_educ: 3
+  education1: Ph.D Institute of Computing Technology, Chinese Academy of Sciences
+  education2: M.S  Huazhong University of Science and Technology
+  education3: <a href="https://people.ucas.ac.cn/~tbb">招生网站</a>
+
+- name: 游瑞邦
+  photo: youruibang.jpg
+  info: 硕导，高级工程师
+  email:  youruibang@iie.ac.cn
+  number_educ: 3
+  education1: Ph.D Insitute of Information Engineering, Chinese Academy of Sciences
+  education2: M.S  Institute of Computing Technology, Chinese Academy of Sciences
+  education3: <a href="https://people.ucas.ac.cn/~youruibang">招生网站</a>
+

@@ -1,0 +1,38 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: 周阳 
+  photo: rock.jpg
+  info: PhD student, started on Aug 2022
+  email: zhouyang22@mails.ucas.ac.cn
+  number_educ: 2
+  education1: M.S  Insitute of Information Engineering, Chinese Academy of Sciences
+  education2: B.S. Nanjing University of Posts and Telecommunications
+
+- name: 彭勇强 
+  photo: pengyongqiang.jpg
+  info: Master student, started on Aug 2022
+  email: eilo.pengyq@foxmail.com
+  number_educ: 3
+  education1: M.S  Insitute of Information Engineering, Chinese Academy of Sciences
+  education2: B.S. Hainan University
+  education3: <a href="https://peng-yq.github.io">Personal Blog</a>
+
+- name: 梁爽 
+  photo: rock.jpg
+  info: Master student, started on Aug 2022
+  email: liangshuang22@mails.ucas.ac.cn
+  number_educ: 2
+  education1: M.S  Insitute of Information Engineering, Chinese Academy of Sciences
+  education2: B.S. Hebei University of Technology 
+
+
+
+
