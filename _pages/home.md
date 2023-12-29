@@ -11,4 +11,4 @@ The Data Center Trusted and Security (DCT) Lab at Institute of Information Engin
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/dct1.jpg" style="width: 95%">
 
 
- **We are  looking for passionate new PhD students,  and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/Openings) **!**
+ **We are  looking for passionate new PhD students,  and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
